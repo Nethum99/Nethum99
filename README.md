@@ -9,7 +9,7 @@
 
 <br>
 
-- :school: I am a `Junior` at [University Of Westminster](https://www.westminster.ac.uk/) at [Informatics Institute Of Technology](https://www.iit.ac.lk/).
+- :school: I am a `Undergraduate Student` at [University Of Westminster](https://www.westminster.ac.uk/) at [Informatics Institute Of Technology](https://www.iit.ac.lk/).
 - :technologist: Passionate about leveraging software to solve `every challenge`.
 - :computer: I am a competitive programmer at `Hackerank`, `Leetcode`.
 - :student: I’m currently learning `Computer Science`.
