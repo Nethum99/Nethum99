@@ -9,7 +9,7 @@
 
 <br>
 
-- :school: I am a `Junior` at [University Of Westminster](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Informatics Institute Of Technology](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [University Of Westminster](https://www.westminster.ac.uk/) at [Informatics Institute Of Technology](https://www.iit.ac.lk/).
 - :technologist: Passionate about leveraging software to solve `every challenge`.
 - :computer: I am a competitive programmer at `Hackerank`, `Leetcode`.
 - :student: I’m currently learning `Computer Science`.
