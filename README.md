@@ -32,6 +32,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,spring,sqlite,hibernate,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,spring,sqlite,hibernate,mysql,golang" />
   </a>
 </p>
