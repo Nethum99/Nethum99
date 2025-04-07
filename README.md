@@ -17,7 +17,7 @@
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Forever curious and constantly `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- 📫 How to reach me **nethummihiranga20182018@gmail.com**
+- 📫 How to reach me **nethummihiranga43@gmail.com**
 <br>
 <hr/>
 <h3 align="center">Connect with me:</h3>
