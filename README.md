@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=F7EE00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Nethum+Mihiranga!" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate DevOps enthusiast from Sri Lanka with a full-stack background</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethum99&label=Profile%20views&color=0e75b6&style=flat" alt="nethum99" /> </p>
 
 	
