@@ -38,7 +38,7 @@
   &nbsp;About Me
 </h2>
 
-> I am a technology enthusiast focused on DevOps, Platform Engineering, and Cloud Architecture, with a passion for designing simple, reliable, and scalable systems that bridge the gap between software development and dependable infrastructure.
+I am a technology enthusiast focused on DevOps, Platform Engineering, and Cloud Architecture, with a passion for designing simple, reliable, and scalable systems that bridge the gap between software development and dependable infrastructure.
 
 My approach is problem first and research driven. I believe in understanding the underlying challenge, applying sound engineering principles, and selecting the right technologies rather than simply following trends. My interests span system design, infrastructure automation, observability, cloud native architectures, and system integrations, with a focus on building resilient platforms that improve reliability, scalability, and operational efficiency.
 
