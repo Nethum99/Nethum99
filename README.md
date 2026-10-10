@@ -38,7 +38,7 @@
   &nbsp;About Me
 </h2>
 
-I am a technology enthusiast focused on DevOps, Platform Engineering, and Cloud Architecture, with a passion for designing simple, reliable, and scalable systems that bridge the gap between software development and dependable infrastructure.
+I am a technology enthusiast focused on <small>DevOps</small>, Platform Engineering, and Cloud Architecture, with a passion for designing simple, reliable, and scalable systems that bridge the gap between software development and dependable infrastructure.
 
 My approach is problem first and research driven. I believe in understanding the underlying challenge, applying sound engineering principles, and selecting the right technologies rather than simply following trends. My interests span System Design, Infrastructure Automation, Observability, Cloud Native Architectures, and System Integrations, with a focus on building resilient platforms that improve reliability, scalability, and operational efficiency.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
