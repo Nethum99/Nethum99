@@ -48,7 +48,7 @@
   &nbsp;Experience
 </h2>
 
-<h3>Intern Operations Engineer &nbsp;<sub>at</sub>&nbsp; Sysco LABS</h3>
+<h3>Intern Operations Engineer @ Sysco LABS</h3>
 <p><code>May 2025 to May 2026</code></p>
 
 I supported production applications and operational workflows in a live support environment, investigating incidents with Amazon CloudWatch, Datadog and ServiceNow. Much of my time went into troubleshooting data movement problems such as CDC latency and failing scheduled jobs, and I contributed documentation and automation that cut down repetitive operational work.
