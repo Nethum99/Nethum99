@@ -16,42 +16,35 @@
   <img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-326CE5?style=for-the-badge" alt="Sri Lanka" />
 </p>
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- What I'm doing -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="36" alt="Rocket" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="Rocket" />
   &nbsp;What I'm Doing
 </h2>
 <p align="center"><sub><i>The work that fills my days right now</i></sub></p>
-<br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" alt="Tools" /> &nbsp;Building and automating platforms on Kubernetes with CI/CD and GitOps<br/><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22" alt="Cost" /> &nbsp;Exploring ways to make cloud native infrastructure more cost efficient<br/><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" alt="Reliability" /> &nbsp;Improving reliability through better monitoring and observability<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" alt="Tools" /> &nbsp;Building and automating platforms on Kubernetes with CI/CD and GitOps<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22" alt="Cost" /> &nbsp;Exploring ways to make cloud native infrastructure more cost efficient<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" alt="Reliability" /> &nbsp;Improving reliability through better monitoring and observability<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="22" alt="Learning" /> &nbsp;Learning to design systems that are repeatable, scalable and easy to operate
 
-<br /><br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- About me -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36" alt="Waving hand" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="Waving hand" />
   &nbsp;About Me
 </h2>
 
 > I build, automate and operate software platforms that stay simple under pressure. I started out in software development and now focus on DevOps and Platform Engineering. I care less about whether something runs once and more about how it is deployed, observed, scaled and kept healthy at 3 a.m.
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- Experience -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="36" alt="Briefcase" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" alt="Briefcase" />
   &nbsp;Experience
 </h2>
 
@@ -60,17 +53,14 @@
 
 I supported production applications and operational workflows in a live support environment, investigating incidents with Amazon CloudWatch, Datadog and ServiceNow. Much of my time went into troubleshooting data movement problems such as CDC latency and failing scheduled jobs, and I contributed documentation and automation that cut down repetitive operational work.
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- Currently building -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" width="36" alt="Construction" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" width="30" alt="Construction" />
   &nbsp;Currently Building
 </h2>
 <p align="center"><sub><i>Research in progress</i></sub></p>
-<br />
 
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="26" alt="Microscope" />
@@ -95,17 +85,17 @@ flowchart LR
 <table>
   <tr>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" width="40" alt="Less idle spend" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" width="32" alt="Less idle spend" /><br/>
       <b>Less idle spend</b><br/>
       <sub>Stops paying for capacity that sits warm but never serves a request</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="40" alt="Fewer SLO misses" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" alt="Fewer SLO misses" /><br/>
       <b>Fewer SLO misses</b><br/>
       <sub>Keeps enough capacity ready so latency sensitive requests avoid cold starts</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" width="40" alt="No more guesswork" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Triangular%20Ruler.png" width="32" alt="No more guesswork" /><br/>
       <b>No more guesswork</b><br/>
       <sub>Replaces a hand picked safety margin with one derived from data and cost</sub>
     </td>
@@ -121,16 +111,13 @@ flowchart LR
   <img src="https://img.shields.io/badge/Status-In%20progress-F2A900?style=flat-square" alt="In progress" />
 </p>
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- Focus -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="36" alt="Bullseye" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" alt="Bullseye" />
   &nbsp;What I Focus On
 </h2>
-<br />
 
 <table>
   <tr>
@@ -159,17 +146,14 @@ flowchart LR
   </tr>
 </table>
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- Toolkit -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="36" alt="Toolbox" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30" alt="Toolbox" />
   &nbsp;Toolkit
 </h2>
 <p align="center"><sub><i>Technologies I work with across operations, labs and research</i></sub></p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22" alt="Cloud" />
@@ -183,7 +167,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="22" alt="Package" />
@@ -198,7 +181,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
 </p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="22" alt="Magnifying glass" />
@@ -208,7 +190,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="22" alt="File cabinet" />
@@ -220,7 +201,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
 </p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="Link" />
@@ -230,7 +210,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Debezium-000000?style=for-the-badge&logo=debezium&logoColor=white" alt="Debezium" />
 </p>
-<br />
 
 <h4>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" alt="Laptop" />
@@ -245,23 +224,18 @@ flowchart LR
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-<br /><br />
 
 <!-- GitHub activity -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="36" alt="Bar chart" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="Bar chart" />
   &nbsp;GitHub Activity
 </h2>
-<br />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nethum99&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=58A6FF&icon_color=326CE5&text_color=C9D1D9&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethum99&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 </p>
-
-<br /><br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="24" alt="Sparkles" />
