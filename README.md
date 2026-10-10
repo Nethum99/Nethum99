@@ -1,37 +1,124 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=F7EE00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Nethum+Mihiranga!" alt="Typing SVG" /></a></h1>
-
-<h3 align="center">A passionate DevOps enthusiast from Sri Lanka with a full-stack background</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethum99&label=Profile%20views&color=0e75b6&style=flat" alt="nethum99" /> </p>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br>
-
-- :school: I am a `Undergraduate Student` at [University Of Westminster](https://www.westminster.ac.uk/) at [Informatics Institute Of Technology](https://www.iit.ac.lk/).
-- :technologist: Passionate about leveraging software to solve `every challenge`.
-- :computer: I am a competitive programmer at `Hackerank`, `Leetcode`.
-- :student: I’m currently learning `Computer Science`.
-- :nerd_face: Forever curious and constantly `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- 📫 How to reach me **nethummihiranga43@gmail.com**
-<br>
-<hr/>
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Nethum Mihiranga</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nethum-mihiranga-6a4b32294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethum" height="40" width="50" /></a>
-<a href="https://fb.com/nethum99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethum mihiranga" height="40" width="50" /></a>
-<a href="https://instagram.com/nethum222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nethum222" height="40" width="50" /></a>
+  <strong>DevOps · Platform Engineering · Cloud-Native Systems</strong>
+  <br />
+  <sub>Computer Science Undergraduate · Former Intern Operations Engineer at Sysco LABS · Sri Lanka</sub>
 </p>
 
-<hr/>
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,spring,sqlite,hibernate,mysql,golang,git,github,firebase,jenkins" />
+  <a href="https://www.linkedin.com/in/nethum-mihiranga-6a4b32294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:nethummihiranga43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nethum99&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+## What I do
+
+I focus on **building, automating, and operating reliable software platforms**. My path started in software engineering, moved into production operations, and is now centred on DevOps and Platform Engineering.
+
+My interests sit where **cloud infrastructure, delivery automation, observability, reliability, and data platforms** meet.
+
+## Focus areas
+
+| Area | What I'm working on |
+|---|---|
+| **Platform Engineering** | Kubernetes-based environments, infrastructure as code, repeatable platform workflows |
+| **DevOps & Delivery** | CI/CD pipelines, containers, deployment automation, and GitOps practices |
+| **Reliability & Observability** | Monitoring, incident investigation, service health, and operational improvement |
+| **Data Platform Engineering** | Change data capture (CDC), event streaming, and cloud data services |
+
+## Experience
+
+**Intern Operations Engineer · Sysco LABS**  
+*May 2025 – May 2026*
+
+- Supported production applications and operational workflows in a production-support environment.
+- Investigated incidents and technical issues using monitoring and service-management tools, including **Amazon CloudWatch, Datadog, and ServiceNow**.
+- Worked with data-movement and pipeline issues, including CDC latency investigation and scheduled-job failure troubleshooting.
+- Contributed to support documentation and automation aimed at reducing repetitive operational effort.
+
+## Projects & research
+
+### WarmStock — Final-Year Research Project
+Researching a **cost- and SLO-aware warm-capacity approach** for Kubernetes/serverless workloads. The goal is to reason about the trade-off between keeping capacity ready, resource cost, and requests that miss a performance objective.
+
+`Kubernetes` · `Workload analysis` · `SLOs` · `Capacity optimisation`
+
+### Project Summit — Cloud-Native Engineering Lab
+A learning project exploring how an application can be delivered as a set of services using containers, automated pipelines, infrastructure as code, and Kubernetes/GitOps workflows.
+
+`Docker` · `CI/CD` · `Terraform` · `Kubernetes` · `Helm` · `Argo CD`
+
+### CDC Lab — Streaming Data Pipeline
+A hands-on lab connecting a PostgreSQL source to an analytics sink through change data capture and event streaming.
+
+`PostgreSQL` → `Debezium` → `Kafka` → `Analytics Sink`
+
+> Project descriptions reflect research and lab work; they are separate from my professional production-operations experience.
+
+## Technology toolkit
+
+*This toolkit reflects a mix of professional operations exposure, research, and hands-on labs; not every listed tool represents production experience.*
+
+### Cloud & Operations
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon CloudWatch" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=172B4D" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+### Containers, Infrastructure & Delivery
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+</p>
+
+### Observability & Data Systems
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Debezium-000000?style=flat-square&logo=debezium&logoColor=white" alt="Debezium" />
+  <img src="https://img.shields.io/badge/AWS_DMS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Database Migration Service" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
+</p>
+
+### Software Engineering Foundations
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Currently focused on
+
+- Deepening my practical skills in **Kubernetes, cloud infrastructure, automation, and platform reliability**.
+- Developing my final-year research and cloud-native engineering projects.
+- Learning how to make platforms **more repeatable, observable, and cost-aware**.
+
+---
+
+<p align="center">
+  <strong>Build it. Automate it. Observe it. Improve it.</strong>
+  <br />
+  <sub>Interested in DevOps, Platform Engineering, Cloud Infrastructure, and Data Platforms.</sub>
 </p>
